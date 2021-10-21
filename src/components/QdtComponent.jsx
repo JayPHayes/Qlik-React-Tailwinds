@@ -6,25 +6,6 @@ import {
 
 const identity = Math.random().toString(32).substr(2, 8);
 
-// const config = {
-//   host: 'bhm-uat-qsense01.adtrav.com',
-//   secure: true,
-//   port: 443,
-//   prefix: '',
-//   appId: 'c0dae89c-3c20-420b-8900-34d04ed300c6',
-//   identity: 'ce6c7616716e1d61189f36f77fb0fc79d76f951b052c4d0c21d83c99c4734fe5',
-// };
-
-// **** DEV *****
-// const config = {
-//   host: 'rezintel2.rezdeskdev.com',
-//   secure: true,
-//   port: 443,
-//   prefix: '',
-//   appId: '2d31a8c2-0870-4d8c-b00b-a149b4c7d8cc',
-//   identity,
-// };
-
 // *** Qlik Sense Demo ****
 const config = {
   host: 'sense-demo.qlik.com',
