@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Public Qlik Dashboards App
+
+https://sense-demo.qlik.com/sense/app/372cbc85-f7fb-4db6-a620-9a5367845dce
+
+
 ## Available Scripts
 
 In the project directory, you can run:
